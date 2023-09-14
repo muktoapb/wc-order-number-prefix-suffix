@@ -7,7 +7,7 @@ WC Order Numbers Prefix & Suffix is a WordPress plugin that allows you to custom
 Follow these steps to install and configure the plugin:
 
 1. **Download the Plugin**
-   - Download the "WC Order Numbers Prefix & Suffix" plugin ZIP file from [the plugin's GitHub repository](https://github.com/muktoapb/wc-order-number-prefix-suffix/tree/main) or [Direct download link](https://github.com/muktoapb/wc-order-number-prefix-suffix/archive/refs/heads/main.zip).
+   - Download the "WC Order Numbers Prefix & Suffix" plugin ZIP file from the plugin's [GitHub repository](https://github.com/muktoapb/wc-order-number-prefix-suffix) or click [direct download link](https://github.com/muktoapb/wc-order-number-prefix-suffix/archive/refs/heads/main.zip).
 
 2. **Install the Plugin**
    - Log in to your WordPress Admin Dashboard.
